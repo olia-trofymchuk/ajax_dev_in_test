@@ -17,4 +17,5 @@ returns a message if the scan is successful (it should be implemented as a previ
 
 
 Output for the first task:
+
 ![img.png](output_to_the_first_task.png)
